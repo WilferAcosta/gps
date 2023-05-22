@@ -1,2 +1,2 @@
-# gps
-consumo de una api de geoLocation
+# pokemon
+consumo de una api de pokemon 
